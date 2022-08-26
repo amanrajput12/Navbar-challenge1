@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+nav{
+    position: absolute;
+    top: 300px;
+    left: 541px;
+    border: 2px solid black;
+    width: 500px;
+    height: 50px;
+
+    background-color: black;
+    border-radius: 8px;
+}
+a{
+   position: relative;
+    top:  15px;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-family: Rubik;
+    color: rgba(245, 245, 220, 0.605);
+    
+}
+
+nav :nth-child(1){
+    position: absolute;
+    left: 30px;
+}
+nav :nth-child(2){
+    position: absolute;
+    left: 130px;
+}
+nav :nth-child(3){
+    position: absolute;
+    left: 230px;
+    color: rgb(149, 244, 117);
+
+    
+}
+nav :nth-child(4){
+    position: absolute;
+    left: 320px;
+    
+}
+nav :nth-child(5){
+    position: absolute;
+    left: 400px;
+}
