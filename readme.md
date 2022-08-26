@@ -1,6 +1,6 @@
 # Navbar challenge 1 #
 [project-live](https://navbar-challenge1.netlify.app)
-  - - - -
+ - - - -
  # Technology used in this project #
   ![html](./images/html.svg) ![css](./images/css.svg)  
     - - - -
