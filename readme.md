@@ -16,5 +16,5 @@
  
  ## Screenshot ##
  
- ![picture](../Challenge_1/images/screen.png)
+ ![picture](./images/screen.png)
  
